@@ -2,7 +2,7 @@ Business Scenario:
 The database “Cellphones Information” contains details on
 cell phone sales or transactions.
 
-The data set we will be using for this exercise comprises of 3 tables:
+The data set we will be using for this exercise comprises of 6 tables:
 --All these filese are also availabe
  Dim_manufacturer
  Dim_model
