@@ -24,3 +24,4 @@ The data set we will be using for this exercise comprises of 6 tables:
  8.the manufacturer with the 2nd top sales in the year of 2009 and the manufacturer with the 2nd top sales in the year of 2010
  9.Show the manufacturers that sold cellphones in 2010 but did not in 2009.
  10.top 100 customers and their average spend, average quantity by each year.
+11.qcbsjcbs;jcb'
