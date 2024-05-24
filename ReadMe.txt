@@ -10,6 +10,9 @@ The data set we will be using for this exercise comprises of 6 tables:
  Dim_Location
  Fact_Transactions
  Dim_date
+
+
+
  
  There was no data format error so directly went for data analysis
  
