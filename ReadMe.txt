@@ -12,7 +12,7 @@ The data set we will be using for this exercise comprises of 6 tables:
  Dim_date
 
  There was no data format error so directly went for data analysis
- 
+
  DATA ANALYSIS ACTIVITY
  1.all the states in which we have customers who have bought cellphones from 2005 till today.
  2.state in the US is buyingthe most 'Samsung' cell phones
